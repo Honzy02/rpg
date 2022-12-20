@@ -1,0 +1,16 @@
+{
+    "admin": {
+        "pw": "1234",
+        "data": {
+            "title": "ADMIN",
+            "lv": 99,
+            "exp": 99,
+            "hp": 999,
+            "dmg": 999,
+            "equip": {"weapon": null, "helmet": null, "chestplate": null, "leggings": null, "boots": null},
+            "place": "spawn",
+            "bag": [],
+            "bag_lv": 3
+        }
+    }
+}

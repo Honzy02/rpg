@@ -1,0 +1,25 @@
+{
+	"weapon": {
+		"sword": {
+			"rarity": 0,
+			"limit": 1,
+			"damage": 3
+		},
+		"bow": {
+			"rarity": 0,
+			"damage": 3
+		}
+	},
+	"helmet": {
+		"alpha": {
+			"rarity": 0,
+			"limit": 3,
+			"hp": 3
+		},
+		"beta": {
+			"rarity": 3,
+			"limit": 6,
+			"hp": 10
+		}
+	}
+}
